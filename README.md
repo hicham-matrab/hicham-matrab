@@ -35,8 +35,4 @@ I'm passionate about 3D modeling, BIM, and scan-to-BIM workflows.
 <p>
   <a href="https://www.linkedin.com/in/hicham-m-b5013a1b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:tonemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
 </p>
