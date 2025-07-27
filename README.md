@@ -5,3 +5,38 @@ I'm passionate about 3D modeling, BIM, and scan-to-BIM workflows.
 - 🔭 I'm working on private scan-to-BIM projects
 - 🌱 I’m currently learning point cloud processing and automation
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hicham-m-b5013a1b8/)
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <!-- Ajoute les logos que tu veux -->
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-matrab&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hicham-matrab&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/hicham-m-b5013a1b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tonemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
